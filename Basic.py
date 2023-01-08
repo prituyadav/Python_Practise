@@ -1,0 +1,7 @@
+print("Hello World!")
+print("My name is Pritu.")
+print("I live in Varanasi, Uttar Pradesh.")
+print("I have completed Full Stack Web Development from Masai School.")
+print("I have just completed HSC(State Board(PCM)) in 2020.")
+print("That's enough, see you again! bye-bye")
+print("Thank you!")
