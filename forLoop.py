@@ -20,3 +20,10 @@ for x in range(6):
 else:
   print("Finally finished!")
   
+
+    
+    
+print("pass in loop---it will remain empty loop without any error") 
+ 
+ for x in [0, 1, 2]:
+  pass 
