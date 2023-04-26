@@ -4,3 +4,10 @@ for x in array:
         break
     else:
         print(x)
+        
+        
+        
+print("range function---")
+
+for x in range(1,6):
+     print(x)
