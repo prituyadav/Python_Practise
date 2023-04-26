@@ -11,3 +11,12 @@ print("range function---")
 
 for x in range(1,6):
      print(x)
+
+        
+        
+print("else in for loop")
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished!")
+  
